@@ -3,8 +3,8 @@ import { Reveal, TiltCard } from "./Reveal";
 
 const features = [
   { icon: Flame, title: "Lit & Ready", text: "Coals hot, head packed, delivered ready to puff." },
-  { icon: Leaf, title: "Fresh Fruit Heads", text: "Apple, orange, grapefruit, pineapple — cut fresh per order." },
-  { icon: Diamond, title: "Premium Flavours", text: "Al Fakher, Adalya, Afzal & Nakhla — curated selection." },
+  { icon: Leaf, title: "Fresh Fruit Heads", text: "Apple, orange, grapefruit, pineapple, cut fresh per order." },
+  { icon: Diamond, title: "Premium Flavours", text: "Al Fakher, Adalya, Afzal & Nakhla, curated selection." },
   { icon: Bike, title: "Melbourne-Wide", text: "Riders covering the whole city, every night." },
 ];
 

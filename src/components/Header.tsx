@@ -9,7 +9,7 @@ export function Header() {
         <Link href="/" className="flex items-center gap-3">
           <Image src={logo} alt="Al Sahra Shisha Delivery" className="h-12 w-12 object-contain" width={48} height={48} />
           <div className="hidden sm:block leading-tight">
-            <div className="font-script text-2xl text-gradient-gold">Al Sahra</div>
+            <div className="-mt-1 overflow-visible pt-1 font-script text-2xl leading-[1.25] text-gradient-gold">Al Sahra</div>
             <div className="text-[10px] tracking-[0.3em] text-muted-foreground">SHISHA · DELIVERY</div>
           </div>
         </Link>

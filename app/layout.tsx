@@ -32,9 +32,9 @@ const siteUrl =
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Al Sahra Shisha Delivery — Premium Shisha to Your Door · Melbourne",
+  title: "Al Sahra Shisha Delivery | Premium Shisha to Your Door · Melbourne",
   description:
-    "Build your perfect shisha online — fresh fruit heads, premium flavours, delivered hot across Melbourne. Customise base, flavour, head and add-ons in three steps.",
+    "Build your perfect shisha online with fresh fruit heads, premium flavours, delivered hot across Melbourne. Customise base, flavour, head and add-ons in three steps.",
   applicationName: "Al Sahra Shisha",
   authors: [{ name: "Al Sahra" }],
   keywords: [
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: "/" },
   openGraph: {
-    title: "Al Sahra Shisha Delivery — Melbourne",
+    title: "Al Sahra Shisha Delivery | Melbourne",
     description: "Premium shisha delivered. Fresh heads, premium flavours, all Melbourne.",
     url: "/",
     siteName: "Al Sahra Shisha",
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@alsahra.shisha",
     creator: "@alsahra.shisha",
-    title: "Al Sahra Shisha Delivery — Melbourne",
+    title: "Al Sahra Shisha Delivery | Melbourne",
     description: "Premium shisha delivered. Fresh heads, premium flavours, all Melbourne.",
     images: [
       {

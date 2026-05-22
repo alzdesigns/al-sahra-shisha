@@ -16,8 +16,8 @@ export function Hero() {
             </div>
           </Reveal>
           <Reveal variant="up" delay={100}>
-            <h1 className="text-5xl md:text-7xl leading-[1.05]">
-              <span className="font-script text-6xl md:text-8xl text-gradient-gold block">Al Sahra</span>
+            <h1 className="overflow-visible text-5xl leading-[1.08] md:text-7xl md:leading-[1.05]">
+              <span className="-ml-2 -mt-4 block overflow-visible pb-1 pl-2 pt-4 font-script text-6xl leading-[1.22] text-gradient-gold md:text-8xl">Al Sahra</span>
               <span className="font-display font-light text-foreground">Premium Shisha,</span>
               <br />
               <span className="shimmer-gold font-display">to your doorstep.</span>
@@ -26,7 +26,7 @@ export function Hero() {
           <Reveal variant="up" delay={200}>
             <p className="text-lg text-muted-foreground max-w-md leading-relaxed">
               Hand-built sessions. Fresh fruit heads. Premium flavours.
-              Build your perfect shisha in three steps — we ride it to you, hot and ready.
+              Build your perfect shisha in three steps, then we ride it to you, hot and ready.
             </p>
           </Reveal>
           <Reveal variant="up" delay={300}>
