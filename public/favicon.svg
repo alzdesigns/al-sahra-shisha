@@ -1,0 +1,31 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shisha Hookah Favicon -->
+  <defs>
+    <style>
+      .shisha-gold { fill: #D4AF37; stroke: #DAA520; stroke-width: 0.5; }
+      .shisha-white { fill: #F5F5DC; stroke: #D4AF37; stroke-width: 0.5; }
+    </style>
+  </defs>
+  
+  <!-- Hookah Base -->
+  <ellipse cx="100" cy="140" rx="35" ry="15" class="shisha-gold"/>
+  
+  <!-- Hookah Body -->
+  <path d="M 100 140 Q 85 130 85 110 L 85 80 Q 85 70 95 70 L 105 70 Q 115 70 115 80 L 115 110 Q 115 130 100 140" class="shisha-white"/>
+  
+  <!-- Hookah Neck -->
+  <rect x="95" y="50" width="10" height="25" class="shisha-gold" rx="3"/>
+  
+  <!-- Hookah Head/Bowl -->
+  <ellipse cx="100" cy="45" rx="20" ry="12" class="shisha-gold"/>
+  <path d="M 85 45 Q 85 40 100 38 Q 115 40 115 45" class="shisha-white"/>
+  
+  <!-- Smoke/Steam -->
+  <path d="M 95 35 Q 92 25 95 15" stroke="#D4AF37" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 105 35 Q 108 25 105 15" stroke="#D4AF37" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 100 35 Q 100 20 100 10" stroke="#D4AF37" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Hose -->
+  <path d="M 85 100 Q 60 110 55 130" stroke="#D4AF37" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M 55 130 Q 65 135 75 132" stroke="#D4AF37" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>
